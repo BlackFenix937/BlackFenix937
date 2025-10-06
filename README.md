@@ -6,11 +6,14 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 
 ## Tecnologías y habilidades <img src="./frieren-dance.gif" width="40" style="vertical-align:middle"/>
 
-Aquí están algunas de las tecnologías con las que trabajo y estoy aprendiendo:
+Aquí están algunas de las tecnologías con las que trabajo:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+Y las que estoy aprendiendo:
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-FF0033?style=for-the-badge&logo=Yii&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
