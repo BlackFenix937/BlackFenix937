@@ -24,7 +24,7 @@ Y las que estoy aprendiendo:
 ## Conéctate conmigo <img src="./call.gif" width="40" style="vertical-align:middle"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-de-jesús-gonzález-alcázar) 
-[![X](https://img.shields.io/badge/Facebook-black.svg?logo=X&logoColor=white)](https://www.facebook.com/Theblackfenix937)
+[![Facebook](https://img.shields.io/badge/Facebook-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/Theblackfenix937)
 
 ---
 
